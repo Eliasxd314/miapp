@@ -1,0 +1,28 @@
+:root {
+	font-family: sans-serif;
+}
+body {
+	background-color: lightyellow;
+}
+form {
+	display: flex;
+	flex-direction: column;
+	padding: 1em;
+	background-color: orange;
+	border-radius: 1em;
+}
+label +  {
+	background-color: 
+}
+input[type="text"] {
+	color: blue;
+}
+.publicacion {
+	background-color: #DAF;
+	padding: 1em;
+	border-radius: 1em;
+	margin: 1em;
+}
+.publicacion, form {
+	box-shadow: 10px 10px #0008
+}
